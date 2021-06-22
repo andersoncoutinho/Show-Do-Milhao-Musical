@@ -1,0 +1,13 @@
+char acertando;
+int nivel;
+int vidas;
+int temporizadorPergunta;
+char *alternativaEscolhida;
+int primeira=-1;
+int segunda=-1;
+int terceira=-1;
+int quarta=-1;
+int quinta=-1;
+int sexta=-1;
+int contador;
+int volume=27;

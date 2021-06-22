@@ -1,0 +1,12 @@
+extern char acertando;
+extern int nivel, vidas;
+extern int temporizadorPergunta;
+extern char *alternativaEscolhida;
+extern int primeira;
+extern int segunda;
+extern int terceira;
+extern int quarta;
+extern int quinta;
+extern int sexta;
+extern int contador;
+extern int volume;
